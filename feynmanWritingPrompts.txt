@@ -1,0 +1,18 @@
+1.  Variables -
+    A variable is a container where you can put data. Before using
+    a variable you must declare it using the ‘var’ keyword, after that you can store data in the variable.
+
+2. Strings -
+    A string is a data type. It is a string of text and is enclosed in single or double quotes.
+    A string is stored in a variable.
+
+3. Functions (arguments, return) -
+    A function is a reusable piece of code which can be called on anywhere in your code and as many times as you need.
+    Arguments are the values passed into the function when the function is called.
+    Parameters are the aliases for those values when the function is written.
+    The return statement stops the function from continuing and returns the value.
+
+4. if statements -
+  if statements allow you to check if something is true or false and execute a block of code if the stated condition is true.
+
+5. Boolean Values ( true, false ) - A Boolean value is a data type that can only have 2 values - values true or false. 
